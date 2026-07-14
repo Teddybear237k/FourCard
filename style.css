@@ -18,22 +18,25 @@ h1 {
 .cards-grid {
     display: grid;
     gap: 2rem;
-    grid-template-columns: repeat(auto-fit, minmax(260px, 1fr));
+    grid-template-columns: repeat(auto-fit, minmax(300px, 1fr));
+    justify-content: center;
+    align-items: center;
     width: min(1120px, 100%);
     margin: 2rem auto 0;
     padding: 0 1rem;
 }
 
+
 .card {
     display: flex;
     flex-direction: column;
-    justify-content: space-between;
     align-items: flex-start;
     background: #fff;
-    border-radius: 1.5rem;
+    border-radius: 5px;
     box-shadow: 0 24px 40px rgba(15, 23, 42, 0.08);
     padding: 2rem;
     min-height: 220px;
-    border-top: 5px solid transparent;
+    border-top: 5px solid red;
     text-align: left;
 }
+

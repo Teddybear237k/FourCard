@@ -1,6 +1,5 @@
 # Frontend Mentor - Four card feature section solution
 
-This is a solution to the [Four card feature section challenge on Frontend Mentor](https://www.frontendmentor.io/challenges/four-card-feature-section-weK1eFYK). Frontend Mentor challenges help you improve your coding skills by building realistic projects. 
 ### The challenge
 
 Users should be able to:
@@ -25,3 +24,5 @@ I still somehow need to focus on grid placement, font usage, :root usage and col
 
 [https://www.w3schools.com/]
 
+### Update 
+added the favicon and corrected 
